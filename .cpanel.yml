@@ -1,0 +1,5 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home3/dmicixff/yptechnology.in/dmic/
+ - /bin/cp * $DEPLOYPATH
